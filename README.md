@@ -14,6 +14,7 @@ Code and Project Report for Indiana University Bus Route Optimization Project
 ***
 ![Page 3](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/variance_wrt_timeframe.PNG)
 ***
-![Page 4](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/E_WeatherEffect.png)
+![Page 4](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/E_WeatherEffect.png)
 ***
 ![Page 5](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/LTA6.png)
+
