@@ -8,13 +8,13 @@ Code and Project Report for Indiana University Bus Route Optimization Project
 5. Maximize the on-route time with sporadic breaks and optimize for most passengers carried while maintaining a minimum frequency.
 
 
-![Page 1](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/a_wrt_timeframe_week.PNG)
+![Page 1](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/a_wrt_timeframe_week.PNG)
 ***
-![Page 2](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/variance_wrt_daysofweek.PNG)
+![Page 2](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/variance_wrt_daysofweek.PNG)
 ***
-![Page 3](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/variance_wrt_timeframe.PNG)
+![Page 3](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/variance_wrt_timeframe.PNG)
 ***
 ![Page 4](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/E_WeatherEffect.png)
 ***
-![Page 5](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/images/LTA6.png)
+![Page 5](https://github.com/pandeyh92/IU-Bus-Service-Route-Optimization-Project/blob/master/images/LTA6.png)
 
